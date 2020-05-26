@@ -2,7 +2,7 @@
 
 Product App like a Product Hunt.
 
-## Technology:
+## Technologies:
 
 - React
 - React Hooks
